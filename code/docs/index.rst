@@ -6,7 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Emir Can Ucar
+Veli Umut Ozyurt
+Group 42
 
 
 .. toctree::
