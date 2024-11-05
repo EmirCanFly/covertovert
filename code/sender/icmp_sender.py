@@ -14,6 +14,5 @@ def send_ICMP():
     # send the packet
     send(packet)
 
-# send an ICMP packet
 if __name__ == "__main__":
     send_ICMP()
